@@ -1,0 +1,6 @@
+produto,quantidade,receita,canal,cliente
+Manga Tommy,100,1500.00,Loja,Atacado
+Manga Palmer,80,1200.00,Online,Varejo
+Manga Kent,120,2400.00,Loja,Atacado
+Manga Espada,60,900.00,Online,Varejo
+Manga Tommy,50,750.00,Distribuidor,Atacado
